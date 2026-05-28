@@ -1,2 +1,2 @@
 # micrograd
-Andrej Karpathy's Micrograd
+Andrej Karpathy's Micrograd, remade to learn backpropagation.
